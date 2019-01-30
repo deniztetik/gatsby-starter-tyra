@@ -1,11 +1,9 @@
 ---
-
 type: "copy"
 name: "about__bio"
-title: "Tyra is a fast, feminine, and chic Gatsby.js Starter. Kickstart your online presence, powered by React."
-
+title: "Velit ipsum accusantium, nemo cum praesentium consequatur similique debitis!"
 ---
 
-Built on a strong foundation of React and Gatsby, Tyra is a modern, sleek, and _fast_ template for a blog. Created with an emphasis on SEO and the goal of showcasing content, Tyra is the perfect starter for creating your new project.
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum voluptate et ea consequatur quas, nisi tempora velit libero sequi consectetur veniam in commodi, facilis amet minima, cupiditate eligendi quo repellat.
 
-Tyra is MIT Licensed, and so works well as a starting point, a springboard, or even a finished product.
+Expedita libero a aut nesciunt itaque? Harum alias eos et est impedit quisquam rem temporibus doloremque.
